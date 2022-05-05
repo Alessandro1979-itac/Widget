@@ -12,7 +12,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71">
 
   <a href="https://github.com/Alessandro1979-itac">
-    <img alt="Made by Alessandro Muniz" src="https://img.shields.io/badge/Made%20by-Igor%20Thierry-2ecc71">
+    <img alt="Made by Alessandro Muniz" src="https://img.shields.io/badge/Made%20by-Alessandro%20Muniz-2ecc71">
   </a>
 
   <a href="https://www.linkedin.com/in/alessandro-muniz-caranha/" target="_blank">
