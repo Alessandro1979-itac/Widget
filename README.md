@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/alessandro-muniz-caranha/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-alessandro-muniz-caranha-2ecc71?style=social&logo=linkedin">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-alessandromunizcaranha-2ecc71?style=social&logo=linkedin">
   </a>
 </p>
 
